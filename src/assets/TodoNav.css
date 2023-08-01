@@ -1,0 +1,11 @@
+.nav-tabs {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.nav-link, .btn-outline-primary {
+    font-size: 16px;
+    color:black;
+}
+.btn-outline-primary {
+    border: 2px solid black;
+}
